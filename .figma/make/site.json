@@ -1,0 +1,10 @@
+{
+  "description": "منصة تقدم محتوى تدريبي وتوعوي عملي لتعزيز ممارسات النظافة والصحة المجتمعية بأسلوب بسيط وواضح باللغة العربية.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
